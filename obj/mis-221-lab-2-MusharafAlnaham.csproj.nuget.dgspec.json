@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\malna\\OneDrive\\Documents\\source\\repos\\Fall2024\\mis221\\mis-221-lab-2-MusharafAlnaham\\mis-221-lab-2-MusharafAlnaham.csproj": {}
+    "C:\\Users\\malna\\OneDrive\\Documents\\source\\repos\\Fall2024\\mis221\\lab2prestuff\\mis-221-lab-2-MusharafAlnaham\\mis-221-lab-2-MusharafAlnaham.csproj": {}
   },
   "projects": {
-    "C:\\Users\\malna\\OneDrive\\Documents\\source\\repos\\Fall2024\\mis221\\mis-221-lab-2-MusharafAlnaham\\mis-221-lab-2-MusharafAlnaham.csproj": {
+    "C:\\Users\\malna\\OneDrive\\Documents\\source\\repos\\Fall2024\\mis221\\lab2prestuff\\mis-221-lab-2-MusharafAlnaham\\mis-221-lab-2-MusharafAlnaham.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\malna\\OneDrive\\Documents\\source\\repos\\Fall2024\\mis221\\mis-221-lab-2-MusharafAlnaham\\mis-221-lab-2-MusharafAlnaham.csproj",
+        "projectUniqueName": "C:\\Users\\malna\\OneDrive\\Documents\\source\\repos\\Fall2024\\mis221\\lab2prestuff\\mis-221-lab-2-MusharafAlnaham\\mis-221-lab-2-MusharafAlnaham.csproj",
         "projectName": "mis-221-lab-2-MusharafAlnaham",
-        "projectPath": "C:\\Users\\malna\\OneDrive\\Documents\\source\\repos\\Fall2024\\mis221\\mis-221-lab-2-MusharafAlnaham\\mis-221-lab-2-MusharafAlnaham.csproj",
+        "projectPath": "C:\\Users\\malna\\OneDrive\\Documents\\source\\repos\\Fall2024\\mis221\\lab2prestuff\\mis-221-lab-2-MusharafAlnaham\\mis-221-lab-2-MusharafAlnaham.csproj",
         "packagesPath": "C:\\Users\\malna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\malna\\OneDrive\\Documents\\source\\repos\\Fall2024\\mis221\\mis-221-lab-2-MusharafAlnaham\\obj\\",
+        "outputPath": "C:\\Users\\malna\\OneDrive\\Documents\\source\\repos\\Fall2024\\mis221\\lab2prestuff\\mis-221-lab-2-MusharafAlnaham\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\malna\\AppData\\Roaming\\NuGet\\NuGet.Config"
